@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KudakwahseMutambirwa
+- 👋 Hi, I’m Kudakwashe Mutambirwa
 - 👀 I’m interested in android dev and game dev
 - 🌱 I’m currently learning java and c#
 - 💞️ I’m looking to collaborate on game dev
